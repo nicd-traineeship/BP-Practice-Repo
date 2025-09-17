@@ -1,6 +1,7 @@
-this is a test of vim. WWWWWWWWWWW
+this is a test of vim. 
 
 Fun times...
 
 ch-ch-ch-changes!
 Turn and face the strain.
+ch-ch-changes!
